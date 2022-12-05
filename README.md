@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **React, Django**
 
-- 👨‍💻 All of my projects are available at [https://github.com/utkarshmajumdar12/utkarshmajumdar12](https://github.com/utkarshmajumdar12/utkarshmajumdar12)
+- 👨‍💻 All of my projects are available at [https://github.com/utkarshmajumdar12/utkarshmajumdar12](https://github.com/utkarshmajumdar12)
 
 - 💬 Ask me about **Python and React**
 
