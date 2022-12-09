@@ -9,6 +9,21 @@
 
 - 📫 How to reach me **majumdar_utkarsh@srmap.edu.in**
 
+<h3 align="center">A passionate frontend developer from India</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utkarshmajumdar12&label=Profile%20views&color=0e75b6&style=flat" alt="utkarshmajumdar12" /> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=utkarshmajumdar12&show_icons=true&locale=en&layout=compact" alt="utkarshmajumdar12" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=utkarshmajumdar12&show_icons=true&locale=en" alt="utkarshmajumdar12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=utkarshmajumdar12&" alt="utkarshmajumdar12" /></p>
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/utkarshsaidso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utkarshsaidso" height="30" width="40" /></a>
